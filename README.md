@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @sneaky or you may know me as Sean Kennedy
-- 👀 I’m interested in ... video games, security, and anything involving distributed or decentralize networks.
-- 🌱 I’m currently learning ... Computer Science at WSU-V
-- 💞️ I’m looking to collaborate on ... video games, security research, hackathons, any project involving distributed or decentralized networks will always peak my interest.
-- 📫 How to reach me ... **sneak#0568** on discord, or email me at sean.m.kennedy@wsu.edu.
+👋 Hi, I’m sneaky or you may know me as Sean
+
+Currently working in IT, but I love computer science and math so I've been spending some of my free time building small projects.
+
+Always interested in learning new things and would love to grow my network more in the software side of things, so feel free to reach out if you'd ever like to work together on something.
+
+How to reach me ... sneak.dev@pm.me
 
 <!---
 sneaky/sneaky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
